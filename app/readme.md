@@ -1,1 +1,1 @@
-import pandas as pd
+App package for RAG chatbot
